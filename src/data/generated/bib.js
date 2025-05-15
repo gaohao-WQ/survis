@@ -96,4 +96,4 @@ const generatedBibEntries = {
     "year": 2024,
     "doi": "10.1016/j.ijhcs.2024.103275"
   }
-];
+};
