@@ -90,4 +90,10 @@ const generatedBibEntries = {
   "chittaro2024vrbiofeedback": {
     "title": "Virtual reality experiences for breathing and relaxation training: The effects of real vs. placebo biofeedback",
     "author": "Chittaro, Luca and Serafini, Marta and Vulcano, Yvonne",
-    "jour
+    "journal": "International Journal of Human-Computer Studies",
+    "volume": "188",
+    "pages": "103275",
+    "year": 2024,
+    "doi": "10.1016/j.ijhcs.2024.103275"
+  }
+];
